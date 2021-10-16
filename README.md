@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Himanshu
-![](https://media-exp1.licdn.com/dms/image/C5616AQGBKBKRYt8veg/profile-displaybackgroundimage-shrink_350_1400/0/1629062278448?e=1639612800&v=beta&t=a347wQuW0btNGkwm3gQUr_KLRlNvGZJZpdexbJt3NpM)
+![]https://github.com/HimanshuDchaudhari/HimanshuDchaudhari/blob/main/Cover.jfif)
 
 **Captivated from life, showing it here.**
 
