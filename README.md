@@ -3,7 +3,7 @@
 
 **Captivated from life, showing it here.**
 
-Skills: PHP/ REACT / JS / HTML / CSS /  BOOTSTRAP / JAVA / DATA SCIENCE
+Skills: PYTHON / PHP/ REACT / JS / HTML / CSS /  BOOTSTRAP / JAVA / DATA SCIENCE
 
 - 🔭 I’m currently working on this page. 
 
